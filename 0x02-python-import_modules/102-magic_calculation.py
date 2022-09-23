@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# ikeji chiagozie @alx-school
+# saheed balogun @alx-school
 
 
 def magic_calculation(a, b):

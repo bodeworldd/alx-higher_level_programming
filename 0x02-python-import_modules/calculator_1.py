@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# calculator_1.py
+# saheed balogun @alx-school
+
 def add(a, b):
     """My addition function
     Args:
@@ -40,4 +43,4 @@ def div(a, b):
     Returns:
         The return value. a / b
     """
-return int(a / b)
+	return int(a / b)

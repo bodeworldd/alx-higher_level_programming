@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-calculation.py
-# ikeji chiagozie @alx-school
+# saheed balogun @alx-school
 
 if __name__ == "__main__":
     """Print the sum, difference, multiple and quotient of 10 and 5."""
